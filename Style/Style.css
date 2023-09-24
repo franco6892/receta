@@ -1,0 +1,23 @@
+.max-width-500 {
+    max-width: 500px; 
+    width: 100%; 
+    height: auto; 
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.tablas {
+    max-width: 500px;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto; 
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
